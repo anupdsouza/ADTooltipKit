@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ADTooltipKit",
-            url: "https://placeholder-url.com/ADTooltipKit.xcframework.zip",
-            checksum: "0000000000000000000000000000000000000000000000000000000000000000"
+            url: "https://github.com/anupdsouza/ADTooltipKit/releases/download/0.0.1/ADTooltipKit.xcframework.zip",
+            checksum: "0b4307dcb643bf464c80cd97095ba96cb3bddacc137bfe7862ecdbb07905c981"
         )
     ]
 )
